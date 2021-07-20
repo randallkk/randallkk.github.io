@@ -5,3 +5,5 @@ gem "webrick", "~> 1.7"
 gem "jekyll", "~> 3.7"
 gem "minimal-mistakes-jekyll"
 gem 'jekyll-admin', group: :jekyll_plugins
+gem 'jekyll-sitemap'
+gem "kramdown-parser-gfm"
